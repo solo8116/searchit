@@ -1,0 +1,1 @@
+ALTER TABLE "repos" DROP CONSTRAINT "repos_url_unique";
